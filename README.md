@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tilak Padole</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 MY Project_1 : [Audio Sentiment Analysis](https://github.com/Tilak612/Audio-Sentiment-Analysis)
+
+- 🔭 MY Project_2 : [Arcore image gallery](https://github.com/Tilak612/Arcore-Image-Gallery)
+
+- 🔭 MY Project_3 : [IIAS(ICE-CREAM INDUSTRIAL ADMINISTRATIVE SUIT)](https://github.com/Tilak612/IIAS)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tilak-padole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tilak-padole" height="30" width="40" /></a>
